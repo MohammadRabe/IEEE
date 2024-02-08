@@ -41,8 +41,8 @@ is more than one pattern into a single one design.
 > The software architecture is **MVC**.
     ___
 ## HTTP request
-consists of ==verb== and ==path==
-**path** is the what >> the resource .
+consists of **verb** and **path**  
+**path** is the what >> the resource.  
 **verb** is the how  >> the method.
 
 
